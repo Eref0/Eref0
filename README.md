@@ -2,7 +2,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eref0&show_icons=true&theme=dracula)
 
-### Aqui estão as linguagens que eu mais utilizo!
+### Estas são as minhas linguagens mais utilizadas!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eref0&layout=compact)](https://github.com/Eref0/github-readme-stats)
 
