@@ -1,4 +1,4 @@
-### Olá! Seja bem vindo(a) ao meu gihub!
+### Olá! Seja bem vindo(a) ao meu github!
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eref0&show_icons=true&theme=dracula)
 
