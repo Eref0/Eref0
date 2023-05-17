@@ -1,6 +1,6 @@
 ### Olá! Seja bem vindo(a) ao meu GitHub!
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eref0&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eref0&show_icons=true&theme=tokyonight)
 
 ### Estas são as minhas linguagens mais utilizadas!
 
