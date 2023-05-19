@@ -1,6 +1,6 @@
 ### Hey there! Welcome to my GitHub space! Here I will share my studies and knowledge!
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eref0&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eref0&show_icons=true&theme=dracula)
 
 ### Here you can see some of my mostly used languages! Estas são as minhas linguagens mais utilizadas!
 
